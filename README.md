@@ -14,19 +14,18 @@
 
 ---
 
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=google-sheets&logoColor=white&style=flat)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
+### 🛠 My Code Skill
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,react,java,mysql,python,docker,figma&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=febrizz&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febrizz&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
